@@ -13,7 +13,7 @@ const viewsPath = path.join (__dirname, '../templates/views')
 const partialsPath = path.join(__dirname, '../templates/partials')
 //const bodyParser = require('body-parser')
 
-require('./db/mongoose')
+//require('./db/mongoose')
 
 
 //Setup handlebars engine and views location
